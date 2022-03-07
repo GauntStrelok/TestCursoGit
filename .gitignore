@@ -1,2 +1,2 @@
 .env*
-test-secret.js*
+./test-secret.js*
